@@ -1,0 +1,25 @@
+# Compiled output
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Temporary and system files
+.DS_Store
+Thumbs.db
+
+# Angular-specific
+.angular/
+*.tsbuildinfo
